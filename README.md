@@ -1,2 +1,2 @@
-# Sklep Zoologiczny
-Jest to repozytorium aplikacji bazodanowej obsługującej zasoby wewnętrzne sklepu zoologicznego. Aby skompilować kod należy użyć plików zawartych w katalogu lib. katalog res zawiera skrypty tworzące bazę danych.
+# Pet Shop
+It is a repository for a database application that supports the internal resources of the pet store. To compile the code, use the files contained in the lib directory. the res directory contains the scripts that create the database.
